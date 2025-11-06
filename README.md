@@ -1,6 +1,9 @@
-소규모 자산 관리를 위한 PAM(Privileged Access Management) 솔루션을 개발하려고 합니다.
+소개
+====
 
-프로젝트 명은 EasyPAM(기존 'TinyPAM') 입니다.
+소규모 인프라 관리를 위한 **PAM(Privileged Access Management)** 솔루션을 개발하려고 합니다.
+
+프로젝트 명은 **EasyPAM**(기존 'TinyPAM') 입니다.
 
 ### UI.UX 기획 (V0.3.0)
 ![](https://github.com/swengkr/EasyPAM/blob/main/images/EasyPAM_3.0_1.png)
