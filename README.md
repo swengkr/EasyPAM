@@ -5,7 +5,7 @@
 
 프로젝트 명은 **EasyPAM**(기존 'TinyPAM') 입니다.
 
-### UI.UX 기획 (V0.3.0)
+## UI.UX 기획 (V0.3.0)
 ![](https://github.com/swengkr/EasyPAM/blob/main/images/EasyPAM_3.0_1.png)
 ![](https://github.com/swengkr/EasyPAM/blob/main/images/EasyPAM_3.0_2.png)
 ![](https://github.com/swengkr/EasyPAM/blob/main/images/EasyPAM_3.0_3.png)
