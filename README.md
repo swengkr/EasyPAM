@@ -1,5 +1,5 @@
 # 소개
-소규모 인프라 관리를 위한 **PAM(Privileged Access Management)** 솔루션을 개발하기위해 기획 중 입니다.
+소규모 인프라 관리를 위한 **PAM(Privileged Access Management)** 솔루션을 개발하기 위해 요구사항 분석 중 입니다.
 
 ## UI.UX 기획 (V0.3.0)
 ![](https://github.com/swengkr/EasyPAM/blob/main/images/EasyPAM_3.0_1.png)
